@@ -16,7 +16,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-5. 提取的文本将会出现在requirements.txt中
+5. 提取的文本将会出现在txt目录中
 
 ## 注意
 > 该工具使用的是speech_recognition模块中google的接口，如果出现请求失败等字样，请检查您的网络
